@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name hasu3)(type KiCad)(uri /home/jsheradin/Documents/adds1010/pcb/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri /home/jsheradin/Documents/adds1010/pcb/teensy.pretty-master)(options "")(descr ""))
+)

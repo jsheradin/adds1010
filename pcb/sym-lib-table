@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name hasu1)(type Legacy)(uri /home/jsheradin/Documents/adds1010/pcb/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name hasu2)(type Legacy)(uri /home/jsheradin/Documents/adds1010/pcb/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+)
